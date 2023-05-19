@@ -11,4 +11,4 @@
 
 주요기능 : 투표기능, 경매기능, 포인트 적립 등
 
-개발환경 : Spring, Java, MariaDB, Apache Tomcat
+개발환경 : SpringFramework 4.3.14, Java 11, MariaDB, Apache Tomcat 8
